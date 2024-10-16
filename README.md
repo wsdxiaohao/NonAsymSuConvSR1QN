@@ -1,6 +1,6 @@
 ## Global non-asymptotic super-linear convergence rates of regularized proximal quasi-Newton methods on non-smooth composite problems
 
-This repository contains the code used for paper " Global non-asymptotic super-linear convergence rates of regularized proximal quasi-Newton methods on non-smooth composite problems"
+This repository contains the code used for paper " Global non-asymptotic super-linear convergence rates of regularized proximal quasi-Newton methods on non-smooth composite problems"  We hope you also find our paper interesting :-) 
 
 ### Bibtex reference
 @misc{wang2024globalnonasymptoticsuperlinearconvergence,
